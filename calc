@@ -4,3 +4,5 @@ print("Enter the operation that you want to do")
 op=input()
 if op=="+":
   print("the sum is:",num1+num2)
+elif op=="-":
+  print("the sub is:",num1-num2)
