@@ -10,3 +10,5 @@ elif op=="*":
   print("the multiplication is",num1*num2)
 elif op=="/":
   print("the division is",num1/num2)
+else:
+  print("enter the valid operation")
